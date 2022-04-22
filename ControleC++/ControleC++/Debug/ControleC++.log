@@ -1,0 +1,16 @@
+﻿  ControleC++.cpp
+C:\Users\etudiant\source\repos\ControleC++\ControleC++\ControleC++.cpp(10,65): error C2143: erreur de syntaxe : absence de ')' avant 'constante'
+C:\Users\etudiant\source\repos\ControleC++\ControleC++\ControleC++.cpp(10,65): error C2440: '<function-style-cast>' : impossible de convertir de 'initializer list' en 'Person'
+C:\Users\etudiant\source\repos\ControleC++\ControleC++\ControleC++.cpp(10,65): message : Aucun constructeur n'a pu prendre le type de source, ou la résolution de la surcharge du constructeur était ambiguë
+C:\Users\etudiant\source\repos\ControleC++\ControleC++\ControleC++.cpp(10,65): error C2143: erreur de syntaxe : absence de ';' avant 'constante'
+C:\Users\etudiant\source\repos\ControleC++\ControleC++\ControleC++.cpp(10,69): error C2059: erreur de syntaxe : ')'
+  Person.cpp
+C:\Users\etudiant\source\repos\ControleC++\ControleC++\Person.cpp(7,105): error C2761: '{ctor}' : la redéclaration du membre n'est pas autorisée
+C:\Users\etudiant\source\repos\ControleC++\ControleC++\Person.cpp(7,107): error C2447: '{' : en-tête de fonction manquant (liste formelle à l'ancien format ?)
+C:\Users\etudiant\source\repos\ControleC++\ControleC++\Person.cpp(22,26): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\etudiant\source\repos\ControleC++\ControleC++\Person.cpp(26,23): error C2248: 'Car::Car' : impossible d'accéder à private membre déclaré(e) dans la classe 'Car'
+C:\Users\etudiant\source\repos\ControleC++\ControleC++\Car.h(15): message : voir la déclaration de 'Car::Car'
+C:\Users\etudiant\source\repos\ControleC++\ControleC++\Car.h(7): message : voir la déclaration de 'Car'
+C:\Users\etudiant\source\repos\ControleC++\ControleC++\Person.cpp(32,1): error C2447: '{' : en-tête de fonction manquant (liste formelle à l'ancien format ?)
+C:\Users\etudiant\source\repos\ControleC++\ControleC++\Person.cpp(41,1): fatal error C1004: fin de fichier inattendue rencontrée
+  Génération de code en cours...
